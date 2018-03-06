@@ -41,7 +41,7 @@
 
 ### 获取七牛图床信息
 #### 注册七牛
-选择使用七牛的图床，没有账号的话先[注册](https://portal.qiniu.com/signup?code=3ldifp9oti442);
+选择使用七牛的图床，没有账号的话先[注册](https://portal.qiniu.com/signup?code=3lowmdcb64x1u);
 
 #### 新建图床
 注册成功之后登陆，先新建一个图床：在左上角选择**新建空间**
